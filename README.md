@@ -26,8 +26,9 @@ StudyCircle is a small full-stack collaborative web app for college students to 
 
 ## Environment variables
 ```
-NEXT_PUBLIC_SUPABASE_URL=
-NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=
+NEXT_PUBLIC_SUPABASE_URL=https://rmsvvgnaftpgabgypsse.supabase.co
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_xRjd78C2hzaODaFwcj0RXA_3qWeFi9E
+
 ```
 
 ## Demo flow
