@@ -32,4 +32,6 @@ NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_xRjd78C2hzaODaFwcj0RXA_3qWeF
 ```
 
 ## Demo flow
+## Live Demo
+https://your-public-study-circle-url.vercel.app
 Create account → create a study session → sign in as another user → join the session → participant count updates → leave/edit/delete according to permissions.
